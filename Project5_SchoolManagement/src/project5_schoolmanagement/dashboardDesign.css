@@ -1,0 +1,271 @@
+
+
+.navbar{
+    
+    -fx-background-color:linear-gradient(to bottom right, #2f466b, #662d60);
+    
+}
+
+.card-top{
+    
+    -fx-background-color:linear-gradient(to bottom right, #2f466b, #662d60);
+    
+}
+
+.exit{
+    
+    -fx-background-color:#c22c40;
+    -fx-background-radius:5px;
+    -fx-cursor:hand;
+    
+}
+
+.exit:hover{
+    
+    -fx-background-color:#f15b72;
+    
+}
+
+.navbutton{
+    
+    -fx-background-color:linear-gradient(to bottom right, rgba(121, 172, 255, 0.2), rgba(255, 106, 239, 0.2));
+    -fx-cursor:hand;
+    -fx-alignment:CENTER-LEFT;
+    
+}
+
+.navbutton:hover{
+    
+    -fx-background-color:linear-gradient(to bottom right, rgba(121, 172, 255, 0.6), rgba(255, 106, 239, 0.6));
+
+}
+
+.editButton{
+    
+    -fx-background-color:transparent;
+    -fx-cursor:hand;
+    -fx-padding:50px 0px 0px 0px;
+    
+}
+
+.textheader-design{
+    
+    -fx-cursor:hand;
+    -fx-padding:0px 0px 10px 0px;
+    
+}
+
+.textheader-design:hover{
+    
+    -fx-border-color:linear-gradient(to bottom right, rgba(121, 172, 255, 0.6), rgba(255, 106, 239, 0.6));
+    -fx-border-width:0px 0px 5px 0px;
+    
+}
+
+.card-dashboard1{
+    
+    -fx-background-color:linear-gradient(to bottom left, #3b6396, #5987bf);
+    -fx-background-radius:20px;
+    
+}
+
+.card-dashboard2{
+    
+    -fx-background-color:linear-gradient(to bottom left, #29825e, #47ae83);
+    -fx-background-radius:20px;
+    
+}
+
+.card-dashboard3{
+    
+    -fx-background-color:linear-gradient(to bottom left, #7f308c, #b451c5);
+    -fx-background-radius:20px;
+    
+}
+
+.card-dashboard4{
+    
+    -fx-background-color:linear-gradient(to bottom left, #ae2859, #cc4677);
+    -fx-background-radius:20px;
+    
+}
+
+.insert-image-design{
+    
+    -fx-background-color:transparent;
+    -fx-font-size:16px;
+    -fx-cursor:hand;
+    
+}
+
+.insert-button{
+    
+    -fx-background-color:#333;
+    -fx-background-radius:20px;
+    -fx-text-fill:#fff;
+    -fx-font-size:15px;
+    -fx-cursor:hand;
+    
+}
+
+.insert-button:hover{
+    
+    -fx-background-color:#3b6396;
+    
+}
+
+.update-button{
+    
+    -fx-background-color:#333;
+    -fx-background-radius:20px;
+    -fx-text-fill:#fff;
+    -fx-font-size:15px;
+    -fx-cursor:hand;
+    
+}
+
+.update-button:hover{
+    
+    -fx-background-color:#29825e;
+    
+}
+
+.clear-button{
+    
+    -fx-background-color:#333;
+    -fx-background-radius:20px;
+    -fx-text-fill:#fff;
+    -fx-font-size:15px;
+    -fx-cursor:hand;
+    
+}
+
+.clear-button:hover{
+    
+    -fx-background-color:#7f308c;
+    
+}
+
+.delete-button{
+    
+    -fx-background-color:#333;
+    -fx-background-radius:20px;
+    -fx-text-fill:#fff;
+    -fx-font-size:15px;
+    -fx-cursor:hand;
+    
+}
+
+.delete-button:hover{
+    
+    -fx-background-color:#ae2859;
+    
+}
+
+.print-button{
+    
+    -fx-background-color:#333;
+    -fx-background-radius:20px;
+    -fx-text-fill:#fff;
+    -fx-font-size:15px;
+    -fx-cursor:hand;
+    
+}
+
+.print-button:hover{
+    
+    -fx-background-color:#5987bf;
+    
+}
+
+.textfield-record-design{
+    
+    -fx-background-color:transparent;
+    -fx-background-radius:10px;
+    -fx-border-color:linear-gradient(to bottom left, #517ab5, #ae44a5);
+    -fx-border-radius:10px;
+    -fx-font-size:15px;
+    
+}
+
+.label-record-design{
+    
+    -fx-background-color:transparent;
+    -fx-background-radius:10px;
+    -fx-border-color:linear-gradient(to bottom left, #517ab5, #ae44a5);
+    -fx-border-radius:10px;
+    -fx-font-size:15px;
+    -fx-padding:2px 2px 2px 10px;
+    
+}
+
+.chartNav-Bar{
+    
+    -fx-background-color:linear-gradient(to bottom right, #2f466b, #662d60);
+    
+}
+
+.chart-Button{
+    
+    -fx-background-color:linear-gradient(to bottom right, rgba(121, 172, 255, 0.2), rgba(255, 106, 239, 0.2));
+    -fx-cursor:hand;
+    
+}
+
+.chart-Button:hover{
+    
+    -fx-background-color:linear-gradient(to bottom right, rgba(121, 172, 255, 0.6), rgba(255, 106, 239, 0.6));
+    
+}
+
+.showChart-Button{
+    
+    -fx-background-color:#333;
+    -fx-background-radius:20px;
+    -fx-cursor:hand;
+    -fx-text-fill:#fff;
+    -fx-font-size:18px;
+    
+}
+
+.showChart-Button:hover{
+    
+    -fx-background-color:linear-gradient(to bottom left, #517ab5, #ae44a5);
+    
+}
+
+.cog{
+    
+    -fx-background-color:linear-gradient(to bottom right, rgba(121, 172, 255, 0.2), rgba(255, 106, 239, 0.2));
+    -fx-cursor:hand;
+    -fx-background-radius:50px;
+    
+}
+
+.cog:hover{
+    
+    -fx-background-color:linear-gradient(to bottom right, rgba(121, 172, 255, 0.6), rgba(255, 106, 239, 0.6));
+    
+}
+
+.logout-card{
+    
+    -fx-background-color:linear-gradient(to bottom right, #2f466b, #662d60);
+    -fx-background-radius:15px;
+    
+}
+
+.logout-button{
+    
+    -fx-background-color:linear-gradient(to bottom right, rgba(121, 172, 255, 0.2), rgba(255, 106, 239, 0.2));
+    -fx-cursor:hand;
+    -fx-background-radius:8px;
+    -fx-font-size:15px;
+    
+}
+
+.logout-button:hover{
+    
+    -fx-background-color:linear-gradient(to bottom right, rgba(121, 172, 255, 0.6), rgba(255, 106, 239, 0.6));
+    
+}
